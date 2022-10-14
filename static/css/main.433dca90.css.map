@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.433dca90.css","mappings":"AAAA,OACE,oBACF,CAEA,eACE,kBACF,CAEA,sBAEE,iBAAmB,CADnB,cAEF","sources":["index.css"],"sourcesContent":["canvas {\n  margin: 0 1rem 1rem 0;\n}\n\n.control-group {\n  margin-bottom: 1rem;\n}\n\n.control-group button {\n  min-width: 2rem;\n  margin-left: 0.5rem;\n}\n"],"names":[],"sourceRoot":""}
